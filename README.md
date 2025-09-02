@@ -62,7 +62,7 @@ O foco do case é prever o número de dias de pedido para **agosto de 2022**.
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-````
+   ```
 2. Abra o **Notebook.ipynb** e execute as células sequencialmente para reproduzir a análise e gerar o arquivo de submissão `order_days_prediction.csv`.
 
 ---
