@@ -54,7 +54,8 @@ O foco do case é prever o número de dias de pedido para **agosto de 2022**.
 - **`august_with_missing_order_days.parquet`** → Dados de pedidos (com lacunas) para agosto/2022.  
 - **`historical_orders.parquet`** → Histórico transacional de usuários (base de treino).  
 - **`august_total_sales.parquet`** → Previsão do valor total de vendas de agosto por usuário (pode ser usada como informação adicional, assumida como verdadeira).  
-
+- Dados em: https://drive.google.com/file/d/1vj4ZMs_rb8dK5nNOXx9LKbIYPUZhsgL4/view?usp=drive_link
+  
 ---
 
 ## ⚙️ Instruções de Execução
